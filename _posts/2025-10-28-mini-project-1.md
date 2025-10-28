@@ -1,5 +1,5 @@
 ---
-title: "Project Announcement
+title: "Project Announcement"
 excerpt_separator: "<!--more-->"
 categories:
   - project1
