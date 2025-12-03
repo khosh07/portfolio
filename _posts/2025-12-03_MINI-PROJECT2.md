@@ -24,11 +24,17 @@ My corpus for this study is an analysis of textual, institutional, and qualitati
 # Data Sources
  
 •	Worldwide Governance Indicators (WGI): A major data source that includes the "Control of Corruption" indicator, which captures perceptions of the extent to which public power is exercised for private gain.
+
 •	World Development Indicators (WDI): The WDI is the WBG's premier compilation of comparable data on overall development, including social, economic, and environmental indicators, which can be cross-referenced with corruption data.
-•	Transparency International (TI): A leading non-governmental organization in the fight against corruption:
+
+•	Transparency International (TI): A leading non-governmental organization in the fight against corruption.
+
 •	Corruption Perceptions Index (CPI): The most widely used index, which ranks countries by their perceived levels of public sector corruption based on expert and business executive assessments.
+
 •	Global Corruption Report: A major publication offering detailed analysis of the impact and nature of corruption.
+
 •	Knowledge Hub: An online repository of research and topic guides on anti-corruption.
+
 •	United Nations Development Programme (UNDP)
 
  # Analytical Goals
