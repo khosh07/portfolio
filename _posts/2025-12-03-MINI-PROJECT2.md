@@ -1,3 +1,4 @@
+---
 title: "My second project blog"
 excerpt_separator: "<!--more-->"
 categories:
