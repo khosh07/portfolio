@@ -50,7 +50,7 @@ Examine the thesis’s central argument that co-production, joint planning, and 
 
 # Digital-Method
 I have acquired several analytical and visualization skills in my coursework in Digital Humanities, which I am now ready to utilize in my project.
-Moreover, I have acquired skills on how to develop comparative process visualizations, such as flowcharts as well as timelines, to effectively demonstrate the difference between the mechanism of decision-making between the government-led Public Health Department and the NGO-led WASEP model.
+I have acquired skills on how to develop comparative process visualizations, such as flowcharts as well as timelines, to effectively demonstrate the difference between the mechanism of decision-making between the government-led Public Health Department and the NGO-led WASEP model.
 The combination of these competencies will enable me to better understand the dynamics of institutions and make my findings more understandable, data-driven, and visually stimulating.
 
 # Challenges
