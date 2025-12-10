@@ -32,11 +32,9 @@ My corpus for this study is an analysis of textual, institutional, and qualitati
 
 •	Corruption Perceptions Index (CPI): The most widely used index, which ranks countries by their perceived levels of public sector corruption based on expert and business executive assessments.
 
-•	Global Corruption Report: A major publication offering detailed analysis of the impact and nature of corruption.
-
 •	Knowledge Hub: An online repository of research and topic guides on anti-corruption.
 
-•	United Nations Development Programme (UNDP)
+
 
  # Analytical Goals
 The study ultimately aims to understand why government-led water schemes struggle despite having adequate resources, and why NGO-led initiatives, such as WASEP, demonstrate stronger results; therefore, the project focuses on
@@ -51,8 +49,8 @@ Analyse how government and NGO approaches differ in:
 Examine the thesis’s central argument that co-production, joint planning, and implementation by state and community actors offer a sustainable solution.
 
 # Digital-Method
-I have acquired several analytical and visualization skills in my coursework in Digital Humanities, which I am now ready to utilize in my project. 
-I have also acquired the ability to undertake network analysis and can therefore plot the relationship among the most important stakeholders, i.e., the government officials, NGOs, and community groups, and visualize how authority, responsibility, and accountability flow amongst and between these actors. Moreover, I have acquired skills on how to develop comparative process visualizations, such as flowcharts as well as timelines, to effectively demonstrate the difference between the mechanism of decision-making between the government-led Public Health Department and the NGO-led WASEP model.
+I have acquired several analytical and visualization skills in my coursework in Digital Humanities, which I am now ready to utilize in my project.
+Moreover, I have acquired skills on how to develop comparative process visualizations, such as flowcharts as well as timelines, to effectively demonstrate the difference between the mechanism of decision-making between the government-led Public Health Department and the NGO-led WASEP model.
 The combination of these competencies will enable me to better understand the dynamics of institutions and make my findings more understandable, data-driven, and visually stimulating.
 
 # Challenges
