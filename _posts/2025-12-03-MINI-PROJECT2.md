@@ -20,42 +20,27 @@ The findings provide a fascinating insight into how institutional culture, accou
 
 # Corpus
 
-My corpus for this study is an analysis of textual, institutional, and qualitative materials about corruption and development, such as interviews, field observation notes, institutional documents, project reports and statistics, and academic literature.
+My corpus for this study is an analysis of textual, institutional, and qualitative materials about corruption and development, such as interviews, field observation notes, news reports, and academic literature.
 
 # Data Sources
  
-•	Worldwide Governance Indicators (WGI): A major data source that includes the "Control of Corruption" indicator, which captures perceptions of the extent to which public power is exercised for private gain.
+•	Kaggal: Dawn news data about 3500 aritcle links 
 
 •	World Development Indicators (WDI): The WDI is the WBG's premier compilation of comparable data on overall development, including social, economic, and environmental indicators, which can be cross-referenced with corruption data.
-
-•	Transparency International (TI): A leading non-governmental organization in the fight against corruption.
-
-•	Corruption Perceptions Index (CPI): The most widely used index, which ranks countries by their perceived levels of public sector corruption based on expert and business executive assessments.
-
-•	Knowledge Hub: An online repository of research and topic guides on anti-corruption.
-
-
 
  # Analytical Goals
 The study ultimately aims to understand why government-led water schemes struggle despite having adequate resources, and why NGO-led initiatives, such as WASEP, demonstrate stronger results; therefore, the project focuses on
 1. Mapping Governance Failures
 Identify patterns of corruption, weak accountability, and lack of community involvement that affect government performance.
-2. Comparing Institutional Models
-Analyse how government and NGO approaches differ in:
-•	transparency
-•	community participation
-•	long-term sustainability
-3. Evaluating Co-production
-Examine the thesis’s central argument that co-production, joint planning, and implementation by state and community actors offer a sustainable solution.
+Identifying areas of pakistan having a huge datas about corruption and analyzing why it happens in this areas.
 
 # Digital-Method
 I have acquired several analytical and visualization skills in my coursework in Digital Humanities, which I am now ready to utilize in my project.
-I have acquired skills on how to develop comparative process visualizations, such as flowcharts as well as timelines, to effectively demonstrate the difference between the mechanism of decision-making between the government-led Public Health Department and the NGO-led WASEP model.
-The combination of these competencies will enable me to better understand the dynamics of institutions and make my findings more understandable, data-driven, and visually stimulating.
+I want to apply the Topic modelling with BERT topic for my project which I have learnt from my course ; Digital Humanities 
+
 
 # Challenges
-Working on a project related to Governance and development-related data has several difficulties. First, Inadequate availability of data is also a major challenge because government records are not complete and or sometimes not available, especially corruption-related records. Also, the digitization barrier can be the difficulty in interview, field notes, and local documents transcription and cleaning, as it is only after this that these materials can be analysed. Ethical considerations, such as the necessity to ensure the anonymity of interviewees, be mindful of politically sensitive information, and not harm communities or whistleblowers,
- are also important. Lastly, I will have to be mindful of biases in data interpretation, as both government and non-governmental organizations could be presenting events to their benefit, and critical triangulation is necessary to ensure precision and impartiality.
+Working on a project related to Governance and development-related data has several difficulties. First, Inadequate availability of data is also a major challenge because government records are not complete and or sometimes not available, especially corruption-related records,therefore,news report cant mention the exact figure.Another issue is its risky job to report corruption matter, most of the news reporters and channels change their stands in some cases it will create a little bit problem for me.
 
 
 
