@@ -36,7 +36,7 @@ Identifying areas of pakistan having a huge datas about corruption and analyzing
 
 # Digital-Method
 I have acquired several analytical and visualization skills in my coursework in Digital Humanities, which I am now ready to utilize in my project.
-I want to apply the Topic modelling with BERT topic for my project which I have learnt from my course ; Digital Humanities 
+I want to apply the clustering method for my project which I have learnt from my course ; Digital Humanities 
 
 
 # Challenges
