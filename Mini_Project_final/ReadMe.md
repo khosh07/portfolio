@@ -1,1 +1,3 @@
-
+Visualisation show the trends in access to electricity and drinking water (basic and safly managed) both in rural and urban areas of Pakistan.The indicators are expressed according as percentage of the population of the country access to these services. Elecricity access increase rapidly as compare to water service in both urban and rural areas. 
+Corpus the data used is taken from WorldBank Datase (World Development Indicators ) which is having 3031 observations in rows and 69 colums indicators, country names, contry codes etc.
+Script explains how I used python to import data, to clean the data and display the graph.
