@@ -1,12 +1,12 @@
 ---
-title: "Government and service dilivery"
+title: "Government and service delivery"
 excerpt_separator: "<!--more-->"
 categories:
   - project2
 tags:
   - experiments
   - tests
-image: images/my-image.jpg
+image: images/banner-miniproject2.jpg
 
 ---
 
@@ -63,13 +63,11 @@ These results imply that efforts to enhance water quality and dependability have
 Figure 1
 ![a random image]({{site.baseurl}}images/first_plot.png)
 
-Figure 1 shows
+Figure 1 shows service delivery of electricity and drinking water by dacade in both urban and rural areas of pakistan.
 
 Click below to view per year interactive visualization of electricity and water access in Pakistan.
 
 <a href="{{ site.baseurl }}/Mini_Project_final/Visualisation/Final_graph.html" target="_blank">Interactive Graph</a>
-
-
 
 
 # Reflection
