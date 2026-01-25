@@ -66,7 +66,7 @@ Figure 1
 Figure 1 shows
 
 
-To see graphs showing service delivery per year [click here]({{https://github.com/khosh07/portfolio/blob/master/Mini_Project_final/Visualisation/Final_graph.html }}).
+To see graphs showing service delivery per year <p>Click <a href="visualizations/Final_graph.html" target="_blank">here</p>
 
 
 # Reflection
