@@ -19,9 +19,6 @@ Pakistan has made noticeably faster progress in expanding electricity access tha
 The project examines 35 years, from 1990 to 2025, to show changes over time and trends in access to electricity and water,
 disaggregated by urban and rural populations, to understand what these differences reveal about infrastructure development,
 policy priorities, and service delivery challenges in Pakistan.
-   
-
-
 
 
 # Project Context
@@ -63,8 +60,13 @@ On the other hand, access to drinking water, especially safely managed drinking 
 When it comes to water, the gap between urban and rural areas is greater than that of electricity.
 These results imply that efforts to enhance water quality and dependability have not been as successful as electricity.
 
-
+Figure 1
 ![a random image]({{site.baseurl}}images/first_plot.png)
+
+Figure 1 shows
+
+
+To see graphs showing service delivery per year [click here]({{https://github.com/khosh07/portfolio/blob/master/Mini_Project_final/Visualisation/Final_graph.html }}).
 
 
 # Reflection
