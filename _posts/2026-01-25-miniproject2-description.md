@@ -66,7 +66,7 @@ Figure 1
 Figure 1 shows
 
 
-<p>Click <a href="visualizations/Final_graph.html" target="_blank">here</a> to view per year interactive visualization of electricity and water access in Pakistan.</p>
+<p>Click <a href="Mini_Project_final/Visualisation/Final_graph.html" target="_blank">here</a> to view per year interactive visualization of electricity and water access in Pakistan.</p>
 
 
 # Reflection
