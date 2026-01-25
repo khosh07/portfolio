@@ -64,7 +64,7 @@ When it comes to water, the gap between urban and rural areas is greater than th
 These results imply that efforts to enhance water quality and dependability have not been as successful as electricity.
 
 
-![a random image]({{site.baseurl}}images/filename.png)
+![a random image]({{site.baseurl}}images/first_plot.png)
 
 
 # Reflection
